@@ -266,9 +266,9 @@ section img{
 /* .brandName{
     animation: slide 10s ease-in-out infinite;
 } */
-/* main h1{
+ main h1{
     animation: slide 8s ease-in-out infinite;
-} */
+} 
 .mpOnline{
     animation: slide1 5s ease-in-out infinite;
     position: absolute;
@@ -688,7 +688,9 @@ body{
     .offer img{
         width: 75%;
     }
-    
+    main h1{
+        animation: none;
+    }
     body{
      overflow-x: hidden;
     }
