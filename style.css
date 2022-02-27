@@ -695,6 +695,9 @@ body{
     .shop h2{
         margin-bottom: 1rem;
     }
+    .photocopy{
+        right: 12%;
+    }
     body{
      overflow-x: hidden;
     }
