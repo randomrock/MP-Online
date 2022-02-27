@@ -430,7 +430,8 @@ section img{
 .offer ul{
     list-style: none;
     font-size: 25px;
-    color: burlywood;
+    color: #fba804;
+    font-weight: bold;
 }
 .shop{
     display: flex;
