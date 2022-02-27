@@ -660,7 +660,7 @@ body{
         display: none;
     }
     iframe{
-        width: 500px !important;
+        width: 300px !important;
     }
     footer > section{
         flex-direction: column;
@@ -673,6 +673,11 @@ body{
         text-align: center;
         font-size: 15px;
     }
-    
-}
+    .offer{
+     flex-direction: column;
+     
+    }
+    .offer ul{
+     text-align: center;
+    }
  
