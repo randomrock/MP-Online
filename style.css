@@ -641,7 +641,7 @@ body{
 /* Media Queries */
 @media all and (max-width: 500px){
     .brandName{
-        left: 35%;
+        left: 32%;
     }
     .mpOnline{
         top: 107%;
