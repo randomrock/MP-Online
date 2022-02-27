@@ -678,11 +678,17 @@ body{
         font-size: 15px;
     }
     .offer{
-     flex-direction: column;
+        flex-direction: column;
      
     }
     .offer ul{
-     text-align: center;
+        text-align: center;
+    }
+    .offer img{
+        width: 75%;
+    }
+    header{
+        overflow-x: hidden;
     }
     body{
      overflow-x: hidden;
