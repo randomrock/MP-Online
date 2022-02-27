@@ -633,3 +633,46 @@ footer button:hover{
     font-size: 19px;
     margin-top: 1rem;
 }
+
+body{
+    overflow-x: hidden;
+} 
+
+/* Media Queries */
+@media all and (max-width: 500px){
+    .brandName{
+        left: 35%;
+    }
+    .mpOnline{
+        top: 107%;
+    }
+    .job,.photocopy{
+        font-size: 20px;
+    }
+    .update-div section{
+        width: 30%;
+    }
+    .update-div{
+        margin: 0 auto;
+        width: 96%;
+    }
+    .testimonial-2{
+        display: none;
+    }
+    iframe{
+        width: 500px !important;
+    }
+    footer > section{
+        flex-direction: column;
+    }
+    footer > section > section{
+        width: 100%;
+        margin-top: 1rem;
+    }
+    footer span{
+        text-align: center;
+        font-size: 15px;
+    }
+    
+}
+ 
