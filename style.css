@@ -692,6 +692,9 @@ body{
     main h1{
         animation: none;
     }
+    .shop h2{
+        margin-bottom: 1rem;
+    }
     body{
      overflow-x: hidden;
     }
