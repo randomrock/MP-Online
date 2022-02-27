@@ -647,6 +647,7 @@ body{
     .mpOnline{
         top: 108%;
         left: 27%;
+        z-index: -2;
     }
     .job,.photocopy{
         font-size: 20px;
