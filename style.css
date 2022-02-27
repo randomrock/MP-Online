@@ -641,11 +641,11 @@ body{
 /* Media Queries */
 @media all and (max-width: 500px){
     .brandName{
-        left: 32%;
+        left: 31%;
     }
     .mpOnline{
         top: 108%;
-        left: 26%;
+        left: 27%;
     }
     .job,.photocopy{
         font-size: 20px;
@@ -684,4 +684,8 @@ body{
     .offer ul{
      text-align: center;
     }
+    body{
+     overflow-x: hidden;
+    }
+ }
  
