@@ -657,6 +657,9 @@ body{
         margin: 0 auto;
         width: 96%;
     }
+    .testimonial-1,.testimonial-3{
+        width: 28%;
+    }
     .testimonial-2{
         display: none;
     }
