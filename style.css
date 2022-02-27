@@ -345,7 +345,8 @@ section img{
     flex-direction: column;
 }
 .cert-1 span,.cert-2 span{
-    color: #ddaa44;
+    color: #fba804;
+    font-weight: bold;
     margin-top: 1rem;
 }
 .cert-1 span+span,.cert-2 span+span{
