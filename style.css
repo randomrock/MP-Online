@@ -744,7 +744,7 @@ main{
     height: 510px;
     justify-content: space-between;
     /* background: url(https://img.search.brave.com/-axTxo6FkkP2O1lNcpwibQqRY3YIZBI8b6g6xl-3Vqk/rs:fit:321:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC56/SEw4Uk1SOEdRTG9G/SjlIbkZkSWZBQUFB/QSZwaWQ9QXBp); */
-    background: url(/saikripaimg.jpg),url(/paytm.jpg);
+    background: url(/MP-Online/saikripaimg.jpg),url(/MP-Online/paytm.jpg);
     background-repeat: no-repeat;
     background-position: left,right;
 }
