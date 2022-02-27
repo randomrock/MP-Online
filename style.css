@@ -284,6 +284,8 @@ section img{
     font-size: 25px;
     color: #f3c56a;
     top: 50%;
+    color: #fba804;
+    font-weight: bold;
 
 }
 .photocopy{
@@ -292,6 +294,8 @@ section img{
     font-size: 25px;
     color: #f3c56a;
     top: 50%;
+    color: #fba804;
+    font-weight: bold;
 }
 @media all and (max-width: 1500px){
     .brandName{
@@ -412,6 +416,8 @@ section img{
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
+    color: #fba804;
+    font-weight: bold;
 }
 
 .offer ul{
@@ -484,6 +490,7 @@ footer{
     justify-content: center;
     align-items: center;
     margin-top: 2rem;
+   
 }
 footer h4{
     font-size: 25px;
@@ -528,7 +535,8 @@ footer span{
     font-size: 20px;
     border-top: 2px solid white;
     line-height: 1;
-    color: #ddaa44;
+    color: #fba804;
+    font-weight: bold;
     width: 100%;
     margin-top: 4em;
     margin-bottom: 2rem;
@@ -543,7 +551,7 @@ footer span{
     font-size: 20px;
 }
 .review a{
-    color: #ddaa44;
+    color: #fba804;
     margin-right: 1rem;
     text-decoration: none;
     border-bottom: 2px solid #ddaa44;
