@@ -688,9 +688,7 @@ body{
     .offer img{
         width: 75%;
     }
-    header{
-        overflow-x: hidden;
-    }
+    
     body{
      overflow-x: hidden;
     }
