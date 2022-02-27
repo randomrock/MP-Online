@@ -699,8 +699,28 @@ body{
     .photocopy{
         right: 12%;
     }
+    .post-1 {
+        flex-direction: column;
+    }
+    .post-1 img{
+        margin-bottom: 2rem;
+    }
     body{
      overflow-x: hidden;
     }
  }
- 
+ @media all and (max-width: 1400px){
+    .mpOnline{
+        animation: slide1 5s ease-in-out infinite;
+        position: absolute;
+        top: 13%;
+        left: 37%;
+        font-size: 23px;
+        color: red;
+        padding: 10px;
+    }
+    .brandName {
+        left: 9%;
+    }
+}
+
