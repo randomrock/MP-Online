@@ -681,6 +681,7 @@ body{
     }
     .offer{
         flex-direction: column;
+        text-align: center;
      
     }
     .offer ul{
