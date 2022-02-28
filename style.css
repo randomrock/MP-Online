@@ -432,6 +432,7 @@ section img{
     font-size: 25px;
     color: #fba804;
     font-weight: bold;
+    text-align: center;
 }
 .shop{
     display: flex;
