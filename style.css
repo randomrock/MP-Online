@@ -755,4 +755,53 @@ main{
 main img{
     width: 15%;
 }
-
+.bank{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+.bank section{
+    width: 30%;
+}
+.bank section img{
+    width: 70%;
+}
+.bank section+section img{
+    width: 80%;
+}
+.account,.pay{
+    font-size: 32px;
+    margin-bottom: 5rem;
+    color: #deaa44;
+    border-bottom: 2px solid #deaa44;
+    line-height: 2;
+    width: 11%;
+    margin: 3rem auto;
+    margin-bottom: 5rem;
+}
+.epay{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+.epay section{
+    width: 30%;
+}
+.epay section img{
+    width: 46%;
+}
+.epay section+section img{
+    width: 90%;
+}
+@media all and (max-width: 1600px){
+    .account{
+        width: 23%;
+        text-align: center;
+    }
+    .pay{
+        width: 13%;
+        text-align: center;
+    }
+}
