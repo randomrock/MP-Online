@@ -760,6 +760,7 @@ main img{
         top: 108%;
         left: 27%;
         z-index: -2;
+     display: none;
     }
     .job,.photocopy{
         font-size: 20px;
