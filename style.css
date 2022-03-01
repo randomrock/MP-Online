@@ -842,5 +842,9 @@ width: 11%;
   width: 85%;
   margin-bottom: 2rem;
  }
- 
+ html{
+ overflow-x: hidden;
+}
+
+}
  }
