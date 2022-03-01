@@ -826,14 +826,14 @@ main img{
     .pay{
      width: 55%;
  }
- .bank{
+ .bank,.epay{
    flex-direction: column;
     justify-content: space-evenly;
   align-items: center;
     margin-bottom: 5rem;
     height: 350px;
  }
- .bank section{
+ .bank section, .epay section{
   width: 85%;
  }
  
