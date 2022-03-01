@@ -656,7 +656,10 @@ footer button:hover{
 body{
     overflow-x: hidden;
 } 
-
+.shivratri{
+    border: 2px solid white;
+    box-shadow: 0px 1px 4px rgb(0 0 0 / 26%);
+}
 /* Media Queries */
 
  @media all and (max-width: 1400px){
@@ -849,7 +852,4 @@ width: 11%;
 
 }
  }
-.shivratri{
-    border: 2px solid white;
-    box-shadow: 0px 1px 4px rgb(0 0 0 / 26%);
-}
+
