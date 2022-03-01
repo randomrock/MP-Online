@@ -701,6 +701,7 @@ main img{
 }
 .bank section+section img{
     width: 80%;
+ border: 2px solid black;
 }
 .account,.pay{
     font-size: 32px;
@@ -836,6 +837,7 @@ main img{
  }
  .bank section, .epay section{
   width: 85%;
+  margin-bottom: 2rem;
  }
  
  }
