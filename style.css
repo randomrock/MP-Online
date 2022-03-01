@@ -713,6 +713,9 @@ main img{
     margin: 3rem auto;
     margin-bottom: 5rem;
 }
+.pay{
+width: 11%;
+}
 .epay{
     display: flex;
     justify-content: center;
