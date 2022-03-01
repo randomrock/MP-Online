@@ -820,4 +820,21 @@ main img{
     body{
      overflow-x: hidden;
     }
+    .account{
+     width: 50%;
+ }
+    .pay{
+     width: 55%;
+ }
+ .bank{
+   flex-direction: column;
+    justify-content: space-evenly;
+  align-items: center;
+    margin-bottom: 5rem;
+    height: 350px;
+ }
+ .bank section{
+  width: 85%;
+ }
+ 
  }
