@@ -657,75 +657,7 @@ body{
 } 
 
 /* Media Queries */
-@media all and (max-width: 500px){
-    .brandName{
-        left: 31%;
-    }
-    .mpOnline{
-        top: 108%;
-        left: 27%;
-        z-index: -2;
-    }
-    .job,.photocopy{
-        font-size: 20px;
-    }
-    .update-div section{
-        width: 30%;
-    }
-    .update-div{
-        margin: 0 auto;
-        width: 99%;
-    }
-    .testimonial-1,.testimonial-3{
-        width: 28%;
-    }
-    .testimonial-2{
-        display: none;
-    }
-    iframe{
-        width: 300px !important;
-    }
-    footer > section{
-        flex-direction: column;
-    }
-    footer > section > section{
-        width: 100%;
-        margin-top: 1rem;
-    }
-    footer span{
-        text-align: center;
-        font-size: 15px;
-    }
-    .offer{
-        flex-direction: column;
-        text-align: center;
-     
-    }
-    .offer ul{
-        text-align: center;
-    }
-    .offer img{
-        width: 75%;
-    }
-    main h1{
-        animation: none;
-    }
-    .shop h2{
-        margin-bottom: 1rem;
-    }
-    .photocopy{
-        right: 12%;
-    }
-    .post-1 {
-        flex-direction: column;
-    }
-    .post-1 img{
-        margin-bottom: 2rem;
-    }
-    body{
-     overflow-x: hidden;
-    }
- }
+
  @media all and (max-width: 1400px){
     .mpOnline{
         animation: slide1 5s ease-in-out infinite;
@@ -814,3 +746,78 @@ main img{
         left: 9%;
     }
 }
+@media all and (max-width: 500px){
+  main {
+       background: none; 
+ }
+ main img{
+    width: 60%;
+ }
+ .brandName{
+        left: 31%;
+    }
+    .mpOnline{
+        top: 108%;
+        left: 27%;
+        z-index: -2;
+    }
+    .job,.photocopy{
+        font-size: 20px;
+    }
+    .update-div section{
+        width: 30%;
+    }
+    .update-div{
+        margin: 0 auto;
+        width: 99%;
+    }
+    .testimonial-1,.testimonial-3{
+        width: 28%;
+    }
+    .testimonial-2{
+        display: none;
+    }
+    iframe{
+        width: 300px !important;
+    }
+    footer > section{
+        flex-direction: column;
+    }
+    footer > section > section{
+        width: 100%;
+        margin-top: 1rem;
+    }
+    footer span{
+        text-align: center;
+        font-size: 15px;
+    }
+    .offer{
+        flex-direction: column;
+        text-align: center;
+     
+    }
+    .offer ul{
+        text-align: center;
+    }
+    .offer img{
+        width: 75%;
+    }
+    main h1{
+        animation: none;
+    }
+    .shop h2{
+        margin-bottom: 1rem;
+    }
+    .photocopy{
+        right: 12%;
+    }
+    .post-1 {
+        flex-direction: column;
+    }
+    .post-1 img{
+        margin-bottom: 2rem;
+    }
+    body{
+     overflow-x: hidden;
+    }
+ }
