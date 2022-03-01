@@ -433,6 +433,7 @@ section img{
     color: #fba804;
     font-weight: bold;
     text-align: center;
+    padding: 0;
 }
 .shop{
     display: flex;
