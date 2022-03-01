@@ -804,4 +804,13 @@ main img{
         width: 13%;
         text-align: center;
     }
+    
+}
+@media all and (max-width: 1500px){
+    .mpOnline{
+        left: 37%;
+    }
+    .brandName{
+        left: 9%;
+    }
 }
