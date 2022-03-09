@@ -197,7 +197,7 @@ main{
     align-items: center;
     /* background: url(https://img.search.brave.com/4Q0xNGf87KrLFKS_Pnhx3uZjSM8al8FX4H8BEefgCr4/rs:fit:985:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5P/U1lzZ2FSaHdCeXQy/cVlkTGpLVmVRSGFE/ayZwaWQ9QXBp); */
     background-repeat: no-repeat;
- 
+    background-size: contain;
     height: 510px;
     justify-content: space-between;
     /* background: url(https://img.search.brave.com/-axTxo6FkkP2O1lNcpwibQqRY3YIZBI8b6g6xl-3Vqk/rs:fit:321:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC56/SEw4Uk1SOEdRTG9G/SjlIbkZkSWZBQUFB/QSZwaWQ9QXBp); */
