@@ -704,7 +704,7 @@ main img{
     width: 70%;
 }
 .bank section+section img{
-    width: 80%;
+    width: 100%;
  border: 2px solid black;
 }
 .account,.pay{
